@@ -13,7 +13,7 @@ public class ReverseEvenOrOddIndexWordsInStatement
 		{			             //3
 			String org = ar[i];  //abc
 		
-			// 3%2=1==0
+			// 3%2=1/=0 if 3%2 remainder is not equal to 
 			if(i%2!=0)
 			{
 				String rev = reverseString(org);   //is

@@ -5,7 +5,7 @@ public class primeNumber
 	public static void main(String[] args) 
 	{
 
-	int num = 6;                         
+	int num = 3;                         
 	int count = 0;  //
 			    	
 	//                    2<6

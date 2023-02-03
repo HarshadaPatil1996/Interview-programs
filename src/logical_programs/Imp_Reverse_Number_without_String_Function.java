@@ -8,7 +8,7 @@ public class Imp_Reverse_Number_without_String_Function
 		int num = 123;  
 		int revNum = 0;     //321
 		
-			//   123            0>0       123/10 = 12/10=1/10 =0
+			//   123    0>0       123/10 = 12/10=1/10 =0
 		for(int i=num;  i>0;       i= i/10) 
 		{
 			int rem = i % 10;  //    1%10 =1
